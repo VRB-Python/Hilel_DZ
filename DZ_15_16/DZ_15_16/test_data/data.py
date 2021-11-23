@@ -1,0 +1,4 @@
+
+pet_list = [[1200, "Spaniel"], [1201, "Boxer"], [1202, "Chau-chau"],[1203, "Hatiko"]]
+user_list = [(150, "Dexter", "Nick", "Jackson", "dexster@dextest.com", "123456", "222222", 1), (151, "userJohn", "John", "Travolta", "trav@trav.com", "123456", "222222", 1)]
+updated_user_list =[ ["Dexter",{"id":150, "username": "DexterUP", "firstName":"NickUP",'lastName': 'Test1', 'email': 'Test1', 'password': 'Test1', 'phone': 'Test1', 'userStatus': 1}], ["userJohn",{"id":151, "username": "userJohnUP", "firstName":"NickUP",'lastName': 'Travolta2', 'email': 'Test1', 'password': 'Test1', 'phone': 'Test1', 'userStatus': 1}]]
