@@ -1,0 +1,3 @@
+Selenium
+Pytest
+webdriver_manager
